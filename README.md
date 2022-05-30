@@ -1,4 +1,7 @@
 # Python-Course
+
+![](https://media.giphy.com/media/FBZbjL8WFnV4K7oazM/giphy.gif)
+
 You can Learn Python from scratch to expert level.
 
 ```diff
