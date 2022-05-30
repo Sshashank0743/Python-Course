@@ -18,7 +18,11 @@ You can Learn Python from scratch to expert level.
 5. [Mailing_Address](https://github.com/Sshashank0743/Python-Course/blob/master/Email-Address/EMail%20.ipynb)
 6. [Units_Conversion](https://github.com/Sshashank0743/Python-Course/blob/master/Unit_Conversion/Height_Units_Conversion.ipynb)
 7. [DSA Practice Questions](https://github.com/Sshashank0743/Python-Course/tree/master/ipynb-Files)
-
+8. [Free_Fall](https://github.com/Sshashank0743/Python-Course/blob/master/Free_Fall/Free_Fall.ipynb)
+9. [Sorting](https://github.com/Sshashank0743/Python-Course/blob/master/Sort_Integers/Sort%20Integers.ipynb)
+10. [Sorting_1](https://github.com/Sshashank0743/Python-Course/blob/master/Sum_of_Integers/Sum_Of_n_Positive_Integers.ipynb)
+11. [Tax_Calculator](https://github.com/Sshashank0743/Python-Course/blob/master/Tax_calculator/Tax_Tip_Calculator.ipynb)
+12. [Units_of_Time](https://github.com/Sshashank0743/Python-Course/blob/master/Units_of_time/Units%20of%20Time.ipynb)
 
 IDE'S 
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
