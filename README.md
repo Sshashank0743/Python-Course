@@ -30,6 +30,11 @@ IDE'S
 2. [VScode](https://code.visualstudio.com/download)
 3. [Anaconda](https://www.anaconda.com/products/distribution)
 
+
+Resources
+
+[refactoring.guru](https://refactoring.guru/design-patterns/python)
+
 # Open source:
 Python is publicly available open source software, any one can use source code that doesn't cost anything.
 
