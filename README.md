@@ -24,6 +24,7 @@ You can Learn Python from scratch to expert level.
 11. [Tax_Calculator](https://github.com/Sshashank0743/Python-Course/blob/master/Tax_calculator/Tax_Tip_Calculator.ipynb)
 12. [Units_of_Time](https://github.com/Sshashank0743/Python-Course/blob/master/Units_of_time/Units%20of%20Time.ipynb)
 13. [Vowel_Consonent](https://github.com/Sshashank0743/Python-Course/blob/master/Vowel_Consonant/Vowel_or_Consonant.ipynb)
+14. [Bread Price](https://github.com/Sshashank0743/Python-Course/blob/master/Bread%20Price/Bread_Price.ipynb)
 
 IDE'S 
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
