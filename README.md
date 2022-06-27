@@ -35,6 +35,7 @@ IDE'S
 Resources
 
 [refactoring.guru](https://refactoring.guru/design-patterns/python)
+
 [60 Python Projects](https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512)    Thanks @amankharwal
 
 # Open source:
