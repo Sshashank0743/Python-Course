@@ -2,6 +2,13 @@
 
 ![](https://media.giphy.com/media/FBZbjL8WFnV4K7oazM/giphy.gif)
 
+<a href="https://codecov.io/gh/tiangolo/fastapi" target="_blank">
+    <img src="https://img.shields.io/badge/Python-darkblue.svg?style=flat&logo=python&logoColor=white" alt="Coverage">
+</a>
+<a href="https://pypi.org/project/fastapi" target="_blank">
+    <img src="https://img.shields.io/badge/sklearn-darkorange.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Supported Python versions">
+</a>
+
 You can Learn Python from scratch to expert level.
 
 ```diff
