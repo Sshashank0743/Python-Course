@@ -22,6 +22,11 @@ It is used for:
 @@ I am looking for self-motivated students interested in Python at different levels! @@
 ```
 
+```python
+print("Hello, World!")
+
+```
+
 # Table Of Contents
 =================
 
