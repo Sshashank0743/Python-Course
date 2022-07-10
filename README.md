@@ -57,6 +57,8 @@ Resources
 
 [60 Python Projects](https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512)    Thanks @amankharwal
 
+[Youtube](https://www.youtube.com/watch?v=yVlMaynpaO8&t=51s)
+
 # Open source:
 Python is publicly available open source software, any one can use source code that doesn't cost anything.
 
