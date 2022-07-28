@@ -45,6 +45,7 @@ print("Hello, World!")
 13. [Vowel_Consonent](https://github.com/Sshashank0743/Python-Course/blob/master/Vowel_Consonant/Vowel_or_Consonant.ipynb)
 14. [Bread Price](https://github.com/Sshashank0743/Python-Course/blob/master/Bread%20Price/Bread_Price.ipynb)
 15. [List](https://github.com/Sshashank0743/Python-Course/tree/master/List)
+16. [Error Types in Python](https://github.com/Sshashank0743/Python-Course/tree/master/Types_of_errors)
 
 IDE'S 
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
