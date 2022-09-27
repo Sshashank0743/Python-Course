@@ -1,6 +1,3 @@
-.. image:: https://app.travis-ci.com/Sshashank0743/Python-Course.svg?branch=master
-   :target: https://app.travis-ci.com/Sshashank0743/Python-Course
-
 # Python-Course
 
 ![](https://media.giphy.com/media/FBZbjL8WFnV4K7oazM/giphy.gif)
