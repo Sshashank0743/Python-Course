@@ -7,16 +7,18 @@
 </a>
 
 
-You can Learn Python from scratch to expert level.
+You can learn Python from scratch to an expert level.
 
 Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
 It is used for:
 
 1. Web development (server-side),
-2. Software development,
-3. Mathematics,
-4. System scripting.
+2. Artificial Intelligence
+3. WebApp Development
+4. Software development,
+5. Mathematics,
+6. System scripting.
 
 ```diff
 @@ I am looking for self-motivated students interested in Python at different levels! @@
