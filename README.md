@@ -14,9 +14,11 @@ Python is a popular programming language. It was created by Guido van Rossum, an
 It is used for:
 
 1. Web development (server-side),
-2. Software development,
-3. Mathematics,
-4. System scripting.
+2. WebApp Development
+3. Artificial Intelligence
+4. Software development,
+5. Mathematics,
+6. System scripting.
 
 ```diff
 @@ I am looking for self-motivated students interested in Python at different levels! @@
